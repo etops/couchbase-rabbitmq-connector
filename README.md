@@ -1,0 +1,1 @@
+# couchbase-rabbitmq-connector
